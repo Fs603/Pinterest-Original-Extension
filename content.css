@@ -1,0 +1,24 @@
+.pio-orig-btn {
+  position: absolute;
+  top: 40px;
+  left: 10px;
+
+  /* Yeh line replace ki gayi hai */
+  background: linear-gradient(90deg, #f8d36b, #e94917);
+
+  color: white;
+  padding: 4px 8px;
+  font-size: 12px;
+  border-radius: 999px; /* reference jaisa rounded */
+  cursor: pointer;
+  z-index: 9999;
+  pointer-events: auto;
+  user-select: none;
+
+  /* optional glow effect reference jaisa */
+  box-shadow: 0 0 20px rgba(233, 73, 23, 0.5);
+}
+
+.pio-orig-btn:hover {
+  background: linear-gradient(90deg, #e94917, #f8d36b);
+}
