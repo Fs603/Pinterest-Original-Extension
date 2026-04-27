@@ -20,14 +20,14 @@
   "action": {
     "default_title": "Download Original Image",
     "default_icon": {
-      "16": "logo/icon16.png",
-      "48": "logo/icon48.png",
-      "128": "logo/icon128.png"
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
     }
   },
   "icons": {
-    "16": "logo/icon16.png",
-    "48": "logo/icon48.png",
-    "128": "logo/icon128.png"
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
   }
 }
